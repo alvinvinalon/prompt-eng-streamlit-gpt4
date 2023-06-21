@@ -13,7 +13,6 @@ Visit the official website: https://streamlit.io/
 
 ## How to run locally
 1. Clone this repository
-https://alvinvinalon@dev.azure.com/alvinvinalon/OpenAI%20Experiments/_git/Prompt-Eng-Streamlit
 
 2. Open the folder in VS Code and run the following from the terminal:
 
